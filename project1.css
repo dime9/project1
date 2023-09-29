@@ -1,0 +1,46 @@
+
+body{
+    background-color: lightgray;
+    margin: 0;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
+*{
+    font-family: 'poppins',sans-serif;color: rgb(30, 39, 46);
+}
+p.h5{
+    letter-spacing: 2px;
+}
+
+img{
+    border-radius: 14px;
+    width: 350px;
+    height: 350px;
+}
+
+div.polaroid {
+    
+    width: 400px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rdba(0,0,0,0.2),0 6px 0rdg(0,0,0,0.19);
+    border-radius: 10px;
+    padding-top: 20px;
+    margin: 40px auto;    
+    border-left: 50px;
+    
+}
+   /* @font-face{
+    font-family: outfit;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+   } */
+
+   /* div.container{
+    text-align:center;
+    padding: 0px;
+   } */
+
